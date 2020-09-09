@@ -2,4 +2,7 @@
 
 In Module 3 exercise #17 you will change the block-quote below:
 
-`This is a line you will change!`
+- Eggs
+- Bacon
+- BLT Sandwhich
+- Chips
